@@ -575,12 +575,12 @@
                       children: (0, s.jsx)("img", { src: "./birdeye.png" }),
                     }),
                     (0, s.jsx)("a", {
-                      href: "twitterlink",
+                      href: "https://twitter.com/nokia_solanaa",
                       target: "blank",
                       children: (0, s.jsx)(j.LCd, {}),
                     }),
                     (0, s.jsx)("a", {
-                      href: "tglink",
+                      href: "https://t.me/nokiasolana",
                       target: "blank",
                       children: (0, s.jsx)(k.Cyx, {}),
                     }),
